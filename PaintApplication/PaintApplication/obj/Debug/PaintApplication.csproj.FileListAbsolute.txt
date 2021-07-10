@@ -1,0 +1,10 @@
+C:\Users\Dilara\source\repos\PaintApplication\PaintApplication\bin\Debug\PaintApplication.exe.config
+C:\Users\Dilara\source\repos\PaintApplication\PaintApplication\bin\Debug\PaintApplication.exe
+C:\Users\Dilara\source\repos\PaintApplication\PaintApplication\bin\Debug\PaintApplication.pdb
+C:\Users\Dilara\source\repos\PaintApplication\PaintApplication\obj\Debug\PaintApplication.csprojAssemblyReference.cache
+C:\Users\Dilara\source\repos\PaintApplication\PaintApplication\obj\Debug\PaintApplication.Form1.resources
+C:\Users\Dilara\source\repos\PaintApplication\PaintApplication\obj\Debug\PaintApplication.Properties.Resources.resources
+C:\Users\Dilara\source\repos\PaintApplication\PaintApplication\obj\Debug\PaintApplication.csproj.GenerateResource.cache
+C:\Users\Dilara\source\repos\PaintApplication\PaintApplication\obj\Debug\PaintApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\source\repos\PaintApplication\PaintApplication\obj\Debug\PaintApplication.exe
+C:\Users\Dilara\source\repos\PaintApplication\PaintApplication\obj\Debug\PaintApplication.pdb
